@@ -92,27 +92,3 @@ int main()
 }
 
 
-//Output:
-Enter size of matrix : 2
-Enter element A11 : 4
-Enter element A12 : 2
-Enter element A21 : 8
-Enter element A22 : 5
-
-Enter element B11 : 1
-Enter element B12 : 5
-Enter element B21 : 7
-Enter element B22 : 3
-
-Matrix A is :
-4 2
-8 5
-
-Matrix B is :
-1 5
-7 3
-
-Matrix C is :
-18 26
-43 55
-
